@@ -1,0 +1,9 @@
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\bin\Debug\TestDay1.exe.config
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\bin\Debug\TestDay1.exe
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\bin\Debug\TestDay1.pdb
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.csproj.AssemblyReference.cache
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.Properties.Resources.resources
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.csproj.GenerateResource.cache
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.csproj.CoreCompileInputs.cache
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.exe
+C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\TestDay1\TestDay1\obj\Debug\TestDay1.pdb
